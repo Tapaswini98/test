@@ -37,11 +37,15 @@ Work with Web3 technologies and integrate blockchain functionality into a decent
 
 ## 📤 Submission
 
-Once completed, submit one of the following:
+### 🎥 Demo Video
 
-- **short video** recording your work.
-- **screenshots** showing the API call and console result.
-- **Github Link** where your assessment result were pushed.
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/357563d270ad4ca7974f73d7c6229fb2-with-play.gif)](https://www.loom.com/share/357563d270ad4ca7974f73d7c6229fb2)
+
+▶️ [https://www.loom.com/share/357563d270ad4ca7974f73d7c6229fb2](https://www.loom.com/share/357563d270ad4ca7974f73d7c6229fb2)
+
+### 📸 Screenshot
+
+![API response screenshot](https://www.loom.com/share/357563d270ad4ca7974f73d7c6229fb2)
 
 ---
 
