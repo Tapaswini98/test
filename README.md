@@ -43,9 +43,11 @@ Work with Web3 technologies and integrate blockchain functionality into a decent
 
 ▶️ [https://www.loom.com/share/357563d270ad4ca7974f73d7c6229fb2](https://www.loom.com/share/357563d270ad4ca7974f73d7c6229fb2)
 
-### 📸 Screenshot
+### 📸 Screenshots
 
-![API response screenshot](https://www.loom.com/share/357563d270ad4ca7974f73d7c6229fb2)
+![API response](assets/screenshots/screenshot-1.png)
+
+![Console output](assets/screenshots/screenshot-2.png)
 
 ---
 
